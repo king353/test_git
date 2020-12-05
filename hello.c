@@ -1,4 +1,4 @@
 #include<stdio.h>
 int main(void){
-  printf("hello wwwwxxxx");
+  printf("hello wwww");
 }
