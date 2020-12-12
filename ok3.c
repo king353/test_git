@@ -1,7 +1,4 @@
-jvdfivjdif
-jjjjjjjjjjjj
-jjjjjjjjjjjj
-mmmmmmmmmmmmm
-mmmmmmmmmmm
-mmmmmmmmmmmmm
-mmmmmmmmmmmmmmj
+include<stdio.h>
+int main(void){
+     printf("hello world");
+}
