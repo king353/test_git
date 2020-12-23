@@ -1,4 +1,4 @@
 #include<stdio>
 int main(void){
-   printf("hello");
+   printf("hello Are you ok?");
 }
